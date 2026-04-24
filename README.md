@@ -1,7 +1,7 @@
-# MSDS684 Week 2 Lab 3
+# MSDS684 Week 3 Lab 3
 
 ## Overview
-This repository contains materials for the Week 2 Lab 3 of the MSDS684 course. The Jupyter notebook included demonstrates various data analysis techniques using Python.
+This repository contains materials for the Week 3 Lab 3 of the MSDS684 course. The Jupyter notebook included demonstrates various data analysis techniques using Python.
 
 ## Setup Instructions
 To set up the project, follow these steps:
@@ -9,12 +9,12 @@ To set up the project, follow these steps:
 1. **Clone the Repository**:  
    Use the following command to clone the repository:
    ```bash
-   git clone https://github.com/rvallaboju/MSDS684_Week-2--Lab-3.git
+   git clone https://github.com/rvallaboju/MSDS684_Week-3--Lab-3.git
    ```
 
 2. **Navigate to the Project Directory**:  
    ```bash
-   cd MSDS684_Week-2--Lab-3
+   cd MSDS684_Week-3--Lab-3
    ```
 
 3. **Install Requirements**:  
